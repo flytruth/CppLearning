@@ -12,7 +12,5 @@ int main()
 
     int Total_rooms=0, Total_pasta=0, Total_rice=0, Total_apples=0, Total_drinks=0, Total_chicken=0
 
-
-
     return 0;
 }
